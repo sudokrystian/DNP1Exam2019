@@ -1,0 +1,222 @@
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\appsettings.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.exe
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.csprojAssemblyReference.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeWeb.StaticWebAssets.Manifest.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeWeb.StaticWebAssets.xml
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorAssemblyInfo.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorAssemblyInfo.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.AssemblyInfoInputs.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.AssemblyInfo.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.TagHelpers.input.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.TagHelpers.output.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorCoreGenerate.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorTargetAssemblyInfo.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorTargetAssemblyInfo.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.csproj.CopyComplete
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.deps.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.runtimeconfig.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.runtimeconfig.dev.json
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.pdb
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.Views.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.Views.pdb
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.MvcApplicationPartsAssemblyInfo.cache
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.Views.pdb
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.dll
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.pdb
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateEmployee.cshtml.g.cs
+E:\szkoła\DNP exam\actual exam\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employees.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\appsettings.json
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.StaticWebAssets.xml
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.exe
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.deps.json
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.runtimeconfig.json
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.runtimeconfig.dev.json
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.pdb
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.Views.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\EmployeeWeb.Views.pdb
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.csproj.AssemblyReference.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.AssemblyInfoInputs.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.AssemblyInfo.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.csproj.CoreCompileInputs.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorAssemblyInfo.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorAssemblyInfo.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeWeb.StaticWebAssets.Manifest.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.TagHelpers.input.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.TagHelpers.output.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorCoreGenerate.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateEmployee.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Employees.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorTargetAssemblyInfo.cache
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.RazorTargetAssemblyInfo.cs
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.Views.pdb
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.csproj.CopyComplete
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.dll
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.pdb
+D:\school\old projects\DNP1Exam279965\DNP1Exam279965\EmployeeWeb\obj\Debug\netcoreapp3.1\EmployeeWeb.genruntimeconfig.cache
